@@ -21,6 +21,6 @@ class Friendship:
         return "{} {}.".format(self.first, self.last)
 
 
-friend1 = Friendship("Yunus", "Emre", 31)
+friend1 = Friendship("Yunus", "Emre", 30)
 friend2 = Friendship("Efe", "Goalkeeper", 10)
 friend3 = Friendship("Mr", "Özdemir", 20)
