@@ -1,6 +1,6 @@
 import logging
 
-logging.basicConfig(filename="friend.log", level=logging.INFO, format= '%(levelname)s:%(name)s:%(message)s')
+logging.basicConfig(filename="friend.log", level=logging.INFO, format='%(levelname)s:%(name)s:%(message)s')
 
 class Friendship:
     """A simple class"""

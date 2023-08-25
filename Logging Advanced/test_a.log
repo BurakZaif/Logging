@@ -1,0 +1,10 @@
+2023-08-25 16:50:36,172:__main__:ERROR:Tried to divide a number with zero.
+Traceback (most recent call last):
+  File "C:/Users/Burak/PycharmProjects/Logging/Logging Advanced/basic_a.py", line 38, in divide
+    result = sayi1 / sayi2
+ZeroDivisionError: division by zero
+2023-08-25 16:50:58,618:__main__:ERROR:Tried to divide a number with zero.
+Traceback (most recent call last):
+  File "C:/Users/Burak/PycharmProjects/Logging/Logging Advanced/basic_a.py", line 38, in divide
+    result = sayi1 / sayi2
+ZeroDivisionError: division by zero
