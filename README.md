@@ -12,6 +12,10 @@ In advanced, I learned to log multiple files with modules and add new loggers lo
 If you want to reach other configuration types and features, you can look at this website: https://docs.python.org/3/library/logging.html#logrecord-attributes.
 
 
+
+
+
+
 '''
 Standard Logging Levels:
 
